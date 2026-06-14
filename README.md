@@ -225,7 +225,7 @@ Suggests:
 
 ---
 
-### Predictive Analytics
+### Bins Status
 
 <img width="1542" height="908" alt="P5 O s3" src="https://github.com/user-attachments/assets/a15d674b-8c56-4a4d-8a11-b896da5f68e0" />
 
